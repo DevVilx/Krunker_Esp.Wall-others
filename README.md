@@ -1,9 +1,10 @@
-# Krunker-Client
-Not by me: 
-trying to create it as a bookmark so no more Tampermonkey for school!
+# Krunker_Esp.wall-others
+Script not by me: 
+trying to create it as a bookmarklet
+Need Help making it to a bookmarklet
 ________________________________________________________________________
 Usage
-A krunker.io client
+For krunker.io
 
 _________________________________________________________________________
 Benefits
